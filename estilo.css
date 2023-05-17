@@ -1,0 +1,133 @@
+/*Limpar formatção do site*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*área principal*/
+
+body {
+	background-color: #e6e6e6;
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica,sans-serif;
+}
+
+/*área cabeçalho*/
+
+#cabeçalho{
+	background-color: #f7b600;
+	text-align: center;
+	padding: 15px;
+}
+
+#logo, #menu {
+	padding: 10px;
+}
+
+/*Titulo Topo*/
+
+h1 {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+.white{
+	color: #FFF;
+}
+
+/*Formatação dos links*/
+
+#cabeçalho a{
+	text-decoration: none;
+	padding: 12px;
+
+}
+
+#cabeçalho a:link, #cabeçalho a:visited {
+	color: #FFF;
+}
+
+#cabeçalho a:hover {
+	color:#f7b600;
+	background: #FFF;
+}
+
+#corpo a{
+	text-decoration: none;
+}
+
+#corpo a:link, #corpo a:visited{
+	color: #f7b600 ;
+}
+
+#corpo a:hover {
+	text-decoration: underline;
+}
+
+/*corpo do site*/
+
+#corpo{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#postagens{
+	width: 660px;
+	float: left;
+}
+
+.postagens{
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+#menu-lateral{
+	width: 240px;
+	float: right;
+}
+
+/*Títulos do corpo do site*/
+
+h2 {
+	color: #f7b600;
+}
+
+.data{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	font-size: 0.8em;
+	display: block;
+	border-bottom: 1px solid #f4f4f4;
+}
+
+h3 {
+	color: #565656;
+	background-color: #CCC;
+	padding: 5px;
+}
+
+/*corpo lateral*/
+
+.conteudo-lateral{
+	background:white;
+	padding: 10px;
+	margin-bottom: 20px;
+
+}
+
+.postagens-lateral{
+	font-size: 0.8em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+}
+
+/*rodapé*/
+
+#rodape{
+	clear: both;
+	text-align: center;
+	background-color: #CCC;
+	padding: 15px;
+}
