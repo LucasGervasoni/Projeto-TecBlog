@@ -6,4 +6,5 @@ Projeto com fins de aprendizagem da linguagem HTML Projeto do curso da udemy Des
 
 #### Ao concluir o site blog de informática em HTML e CSS, fiquei satisfeito ao ver o resultado final. Essa experiência me permitiu aprimorar minhas habilidades de programação web e me deu uma compreensão mais profunda sobre como criar um site funcional e visualmente agradável.
 
-![image](https://github.com/LucasGervasoni/Projeto-TecBlog/assets/128429739/38723bcc-de64-4bc3-85c2-102293ab6aad)
+![image00](https://github.com/LucasGervasoni/Projeto-TecBlog/assets/128429739/27a28034-d050-4882-ac89-2f3222e1de36)
+
